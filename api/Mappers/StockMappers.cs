@@ -34,6 +34,7 @@ namespace api.Mappers
                 Industry = createStockRequestDto.Industry,
                 MarketCap = createStockRequestDto.MarketCap
             };
+        }
+
     }
-}
 }
